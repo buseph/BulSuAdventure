@@ -1,0 +1,1 @@
+score = global.tempScore;
