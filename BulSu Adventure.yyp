@@ -191,6 +191,14 @@
             }
         },
         {
+            "Key": "13bb9db3-dd35-430c-b782-29d1c93c81cd",
+            "Value": {
+                "id": "73172e56-25e3-4136-a1f4-33ca59de959d",
+                "resourcePath": "objects\\oTutorial05\\oTutorial05.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "14d57fae-9296-4343-8204-7933046ae903",
             "Value": {
                 "id": "fabfc764-3b5c-49ed-adf7-17b0b98371aa",
@@ -983,6 +991,14 @@
             }
         },
         {
+            "Key": "75a83d0e-bfcb-406b-a8b3-6f30b0a528b2",
+            "Value": {
+                "id": "181af81e-f840-421e-9905-e5d9717f6781",
+                "resourcePath": "rooms\\tutorialRoom05\\tutorialRoom05.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "ef9fc4d5-ec6a-4429-9c72-597e1a66f295",
@@ -1092,6 +1108,14 @@
                 "id": "d708a0fc-343e-4f78-a673-7aa9dd2ff700",
                 "resourcePath": "views\\7fe73bc3-5d03-40dd-b428-ca3fd23f49cc.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "819e3228-e5e0-43b7-9bfb-3b8613231508",
+            "Value": {
+                "id": "2e472992-d178-42d3-a35b-b535e525e6b5",
+                "resourcePath": "objects\\oTrampoline11\\oTrampoline11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1396,6 +1420,14 @@
                 "id": "a0301b74-eff3-4ec1-92fc-c649d8d1c9b1",
                 "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
                 "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a1f59234-69f3-4b25-a6f7-e54babc43524",
+            "Value": {
+                "id": "3a7164d8-fa68-4bb1-94c4-78dbb0daf0a1",
+                "resourcePath": "objects\\oCoin11\\oCoin11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1999,6 +2031,14 @@
             }
         },
         {
+            "Key": "e6acacd4-47a3-4075-b332-e9b8cbb98c47",
+            "Value": {
+                "id": "22627eb8-85c5-4e0f-a088-0755f3d2e05e",
+                "resourcePath": "rooms\\tutorialRoom06\\tutorialRoom06.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "e781eda4-8104-4b06-b930-e14992168988",
             "Value": {
                 "id": "46dd2f5d-61e4-4960-ba4c-42293543c5ba",
@@ -2140,6 +2180,14 @@
                 "id": "24d8fb4b-ef0c-45c7-be92-cbb937dfef9b",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f93bd3b7-b9a0-4286-b360-93d9fcfd46b7",
+            "Value": {
+                "id": "44dc0c9c-42ea-4558-9ab7-02aadfdbaa27",
+                "resourcePath": "objects\\obj_playerTutorial05\\obj_playerTutorial05.yy",
+                "resourceType": "GMObject"
             }
         },
         {

@@ -8,3 +8,5 @@ global.step5 = 0;
 global.tLives = 3;
 
 global.step6 = 0;
+
+global.step7 = 0;
