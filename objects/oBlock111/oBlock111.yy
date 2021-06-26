@@ -1,24 +1,15 @@
 {
-    "id": "1501670b-bac8-4736-80bc-6be2b4e05b00",
+    "id": "ee1a1f32-02fc-4239-8063-0f036919aad6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oTutorialManager",
+    "name": "oBlock111",
     "eventList": [
-        {
-            "id": "60ae356d-f0fb-446b-a3de-ff3e9f6af349",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "1501670b-bac8-4736-80bc-6be2b4e05b00"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": true,
+    "parentObjectId": "414f2768-f769-4e34-a53e-5cf42fe7fea1",
+    "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "abc4b760-c5e9-4532-aa4e-4f4eb8f60bd7",
     "visible": true
 }

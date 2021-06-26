@@ -263,6 +263,14 @@
             }
         },
         {
+            "Key": "180ef084-3f0c-46a9-8dc0-5a4f4e5d89ef",
+            "Value": {
+                "id": "0d1b8f85-e63d-43cc-b2c2-66201a29ea1b",
+                "resourcePath": "objects\\oTutorial06\\oTutorial06.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "19ae46dd-c438-4c11-b31c-40aba45e9ecb",
             "Value": {
                 "id": "ca967199-b182-47d9-80a4-f3afdabae807",
@@ -292,6 +300,14 @@
                 "id": "cbc18beb-79f3-40b2-a1c3-cc67d5589a82",
                 "resourcePath": "views\\1e907e20-2213-4645-91cb-543726c9ca43.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "203eda96-7eae-4d95-ab57-6d0f0553e1d0",
+            "Value": {
+                "id": "cec4c0a3-d6dd-4d6f-95a9-bb58aba7a255",
+                "resourcePath": "objects\\oButton111\\oButton111.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -387,6 +403,14 @@
             "Value": {
                 "id": "04dc7453-0197-4432-b0c5-0d48b07e7624",
                 "resourcePath": "objects\\oTutorial2\\oTutorial2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "2d64ebc0-db01-4030-b7e9-ed06b48a363c",
+            "Value": {
+                "id": "4c7769ba-2993-4807-a6be-25cdbcf36482",
+                "resourcePath": "objects\\obj_playerTutorial06\\obj_playerTutorial06.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1012,6 +1036,14 @@
                 "id": "1ff47c62-3ec1-43ce-aacc-01cf9f88cbd8",
                 "resourcePath": "sprites\\sEnemy3_died\\sEnemy3_died.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "77fdefbf-eb68-4045-a45f-fcbff630fe8c",
+            "Value": {
+                "id": "df3d9f96-8b9f-4ac8-a192-d8c0f81b3617",
+                "resourcePath": "objects\\oTrampoline111\\oTrampoline111.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1935,6 +1967,14 @@
             }
         },
         {
+            "Key": "de9d3814-5d8f-478b-b8ac-a156b9fa3ec3",
+            "Value": {
+                "id": "e7bfb9da-550e-44c0-8179-a44ba983224b",
+                "resourcePath": "objects\\oCoin111\\oCoin111.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dff0c064-fd1c-49a6-b320-c1ac8985fa76",
             "Value": {
                 "id": "add3f573-079d-4fc9-ba8c-26383b6b8c0a",
@@ -2091,6 +2131,14 @@
             "Value": {
                 "id": "624ccfae-834b-4987-81c7-52fac3b19727",
                 "resourcePath": "objects\\oButton5\\oButton5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ee1a1f32-02fc-4239-8063-0f036919aad6",
+            "Value": {
+                "id": "8318dfe3-d0ca-4b1a-9a06-67d394038dc5",
+                "resourcePath": "objects\\oBlock111\\oBlock111.yy",
                 "resourceType": "GMObject"
             }
         },

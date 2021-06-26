@@ -10,3 +10,5 @@ global.tLives = 3;
 global.step6 = 0;
 
 global.step7 = 0;
+
+global.step8 = 0;
