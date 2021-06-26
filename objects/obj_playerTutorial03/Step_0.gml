@@ -35,7 +35,7 @@ switch(state){
 		} 
 		
 		//died
-		if(lives<=0 || y > room_height){
+		if(global.tLives<=0 || y > room_height){
 				state = st.dead;
 		}	
    break;
@@ -50,7 +50,7 @@ switch(state){
 		if(hurt_time>15 || tile_ver_collision(kb_x * kb_speed)) {
 			state = st.normal;
 			hurt_time = 0;
-			lives--;
+			global.tLives--;
 		}
    break;
    
@@ -63,6 +63,8 @@ switch(state){
 			
 			if(hurt_time>2){
 				instance_destroy();
+				global.tLives = 3;
+				global.step5 += 1;
 			}
 		}
    break;

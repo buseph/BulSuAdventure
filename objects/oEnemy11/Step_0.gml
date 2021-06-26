@@ -16,10 +16,6 @@ switch(state)
 			
 			if(obj_playerTutorial03.y < y-40){
 				audio_play_sound(sJumpOnEnemy, 0, 0);
-				with( Tutorial03){
-					sprite_index = sp_jumping;
-					vsp = -jump_speed;
-				}
 				state = st.hurt;
 			}else{
 				audio_play_sound(sPlayerHurt, 0, 0);
@@ -37,7 +33,9 @@ switch(state)
 		//flip
 		image_xscale = sign(hsp);
 
-		x += hsp;
+		if(global.step5 >= 2){
+			x += hsp;
+		}
 		
 		
 		break;

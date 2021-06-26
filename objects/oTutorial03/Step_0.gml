@@ -1,13 +1,12 @@
-  if(right == true){
-	right = false;
-}else if(left == true){
-	left = false;
+if(global.step5 < 2){
+	if(keyboard_check_pressed(vk_enter)){
+		global.step5 += 1;
+		show_debug_message(global.step5);
+	}
 }
 
-if(key==2){
-	global.tutorialStep = 1;
-}
-
-if(!instance_exists(oCoin1)){
-	room_goto(tutorialRoom3);
+if(global.step5 == 3){
+	if(keyboard_check_pressed(vk_enter)){
+		game_end();
+	}
 }
