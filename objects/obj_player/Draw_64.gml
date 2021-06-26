@@ -12,6 +12,7 @@ for(var i = 0; i < lives; i++){
 with(oCoinGui){
 	draw_text(x + 15, y + -16, string(global.tempScore));
 	draw_set_font(font0);
+	draw_set_halign(fa_left);
 	if(global.level > 2){
 		draw_set_colour($FF00A5F0 & $ffffff);
 	}else{

@@ -11,6 +11,6 @@ if(!instance_exists(oCoin111)){
 
 if(global.step8 == 2){
 	if(keyboard_check_pressed(vk_enter)){
-		game_end();
+		room_goto(room0);
 	}
 }

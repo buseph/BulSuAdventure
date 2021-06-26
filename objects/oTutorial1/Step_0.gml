@@ -23,6 +23,8 @@ if(jumpCount == 3){
 	success = 2;
 }
 
-if(keyboard_check_pressed(vk_enter)){
-	room_goto(tutorialRoom2);
+if(success == 2){
+	if(keyboard_check_pressed(vk_enter)){
+		room_goto(tutorialRoom2);
+	}
 }
