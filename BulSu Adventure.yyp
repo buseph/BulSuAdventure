@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "17525bba-8414-442e-9924-5ac584eb5951",
+            "Value": {
+                "id": "61985601-8a6f-406f-973f-b3331e35d634",
+                "resourcePath": "objects\\oTutorial03\\oTutorial03.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "178e65b5-303e-4641-b836-442b7cbd192a",
             "Value": {
                 "id": "658a5881-9f8b-432f-8067-97cd98dfce1f",
@@ -435,6 +443,14 @@
             "Value": {
                 "id": "0dfbe2c9-d38a-493c-a8ec-c24de36fb68b",
                 "resourcePath": "objects\\oEnemy7\\oEnemy7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7",
+            "Value": {
+                "id": "2576ffab-0749-47ae-8b46-63193bf0235d",
+                "resourcePath": "objects\\obj_playerTutorial03\\obj_playerTutorial03.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -908,6 +924,14 @@
                 "id": "1c3930de-f10b-4cbe-bf35-76b484282534",
                 "resourcePath": "sprites\\sp_jumping\\sp_jumping.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "70db8a46-5ac8-404a-a78e-ef755dfb739b",
+            "Value": {
+                "id": "29527737-bdfc-41d1-9e62-197434c8ece5",
+                "resourcePath": "objects\\oEnemy11\\oEnemy11.yy",
+                "resourceType": "GMObject"
             }
         },
         {
