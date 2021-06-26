@@ -7,6 +7,6 @@ if(global.step5 < 2){
 
 if(global.step5 == 3){
 	if(keyboard_check_pressed(vk_enter)){
-		game_end();
+		room_goto(tutorialRoom04);
 	}
 }

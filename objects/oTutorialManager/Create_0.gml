@@ -6,3 +6,5 @@ global.Tlives = 3;
 
 global.step5 = 0;
 global.tLives = 3;
+
+global.step6 = 0;

@@ -1,48 +1,38 @@
 {
-    "id": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7",
+    "id": "83e6cf1f-d1e2-4f60-80ff-e7a66f80cb91",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_playerTutorial03",
+    "name": "obj_playerTutorial04",
     "eventList": [
         {
-            "id": "bebcb22a-23bb-45bb-9c7b-260a8ae233c2",
+            "id": "8d637bf7-c71e-429b-a084-c7ad0a1084d7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7"
+            "m_owner": "83e6cf1f-d1e2-4f60-80ff-e7a66f80cb91"
         },
         {
-            "id": "20718ea5-168b-410d-a30e-5050abecf7ec",
+            "id": "3f0fdf9d-376a-4740-b5af-f8a0cef6df30",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 4,
             "eventtype": 7,
-            "m_owner": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7"
+            "m_owner": "83e6cf1f-d1e2-4f60-80ff-e7a66f80cb91"
         },
         {
-            "id": "a18b9a99-a53d-4d1e-b99d-50616db3579f",
+            "id": "032860c5-3717-4bac-88ed-9ce9f31c1b0f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7"
-        },
-        {
-            "id": "9d6ef4a9-4148-47d2-8cf4-c02575d8afe4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "34cf6395-d5d1-4969-b56e-5c0ee717c7e7"
+            "m_owner": "83e6cf1f-d1e2-4f60-80ff-e7a66f80cb91"
         }
     ],
     "maskSpriteId": "99f8f70e-7277-456c-bb83-e89729434b42",

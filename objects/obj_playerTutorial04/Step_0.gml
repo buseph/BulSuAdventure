@@ -1,5 +1,15 @@
 switch(state){
-   case st3.normal:
+   case st.normal:
+		hsp = (keyboard_check(ord("D")) || keyboard_check(vk_right)) - (keyboard_check(ord("A")) || keyboard_check(vk_left));
+		hsp *= 4;
+		
+		//jump
+		var jump = keyboard_check_pressed(ord("W")) || keyboard_check_pressed(vk_up);
+		if(jump && tile_ver_collision(1)) {
+			vsp = -jump_speed;
+			audio_play_sound(sJump, 0, 0);
+		}
+			
 		//gravity
 		if(vsp < 10) vsp += grav;
 		
@@ -16,9 +26,12 @@ switch(state){
 				y += sign(vsp);
 			}
 			vsp = 0;
-			global.momentum = 0;
+			//global.momentum = 0;
 		}
 		
+		if(global.step6 >= 1){
+			x += hsp;
+		}
 		y += vsp;
 		
 		//animation
@@ -34,13 +47,9 @@ switch(state){
 			sprite_index = sp_idle;
 		} 
 		
-		//died
-		if(global.tLives<=0 || y > room_height){
-				state = st3.dead;
-		}	
    break;
    
-   case st3.hurt:
+   case st.hurt:
 		sprite_index = spHit;
 		
 		x += kb_x * kb_speed;
@@ -48,24 +57,9 @@ switch(state){
 		hurt_time++;
 		
 		if(hurt_time>15 || tile_ver_collision(kb_x * kb_speed)) {
-			state = st3.normal;
+			state = st.normal;
 			hurt_time = 0;
-			global.tLives--;
 		}
    break;
    
-   case st3.dead: 
-		sprite_index = spDied;
-		
-		if(floor(image_index) == image_number - 1){
-			image_speed = 0;
-			hurt_time++;
-			
-			if(hurt_time>2){
-				instance_destroy();
-				global.tLives = 3;
-				global.step5 += 1;
-			}
-		}
-   break;
 }
