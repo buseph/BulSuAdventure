@@ -1,3 +1,3 @@
 with(obj_player){
-	lives = 0;
+	global.gameLives = 0;
 }

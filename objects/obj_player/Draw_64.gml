@@ -4,7 +4,7 @@ var draw_y = 35;
 
 var h_dist = 40;
 
-for(var i = 0; i < lives; i++){
+for(var i = 0; i < global.gameLives; i++){
 	draw_sprite(spHeart, 0, draw_x + (i*h_dist), draw_y);
 }
 

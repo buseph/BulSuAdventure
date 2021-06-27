@@ -64,7 +64,7 @@ switch(state){
 		
 		//died
 		if(global.PlayerTrial != -1){
-			if(lives<=0 || y > room_height){
+			if(global.gameLives<=0 || y > room_height){
 				state = st.dead;
 			}
 		}else{
@@ -98,7 +98,7 @@ switch(state){
 		if(hurt_time>15 || tile_ver_collision(kb_x * kb_speed)) {
 			state = st.normal;
 			hurt_time = 0;
-			lives--;
+			global.gameLives--;
 		}
    break;
    
@@ -111,9 +111,9 @@ switch(state){
 			
 			if(hurt_time>2){
 				room_restart();	
-				global.tempScore = score;
+				global.tempScore = global.gameScore;
 				global.PlayerTrial--;
-				lives = 3;
+				global.gameLives = 3;
 			}
 		}
    break;
