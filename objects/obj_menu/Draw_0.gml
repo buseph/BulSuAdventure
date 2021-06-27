@@ -6,3 +6,9 @@
 	
 //	draw_set_alpha(1);
 //}
+
+if(file_exists("save.ini")){
+	instance_create_layer(360, 340, "Instances", oContinueBtn);
+	image_alpha = 0.7;
+}
+

@@ -16,7 +16,6 @@ switch(state){
 				y += sign(vsp);
 			}
 			vsp = 0;
-			global.momentum = 0;
 		}
 		
 		y += vsp;
