@@ -407,6 +407,14 @@
             }
         },
         {
+            "Key": "2ccf594b-e0bc-4209-9891-6bdae61a6a22",
+            "Value": {
+                "id": "749c4473-de82-4af6-bdf2-e27fe98c6df0",
+                "resourcePath": "objects\\obj_menu\\obj_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2d64ebc0-db01-4030-b7e9-ed06b48a363c",
             "Value": {
                 "id": "4c7769ba-2993-4807-a6be-25cdbcf36482",
@@ -652,6 +660,14 @@
                 "id": "d01feada-5bc3-418e-819f-217798add755",
                 "resourcePath": "sprites\\sp_lava\\sp_lava.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "45621eb2-1667-4320-bb51-96147001de36",
+            "Value": {
+                "id": "0c51fe2d-26c6-411a-b3ea-092cc11ebf35",
+                "resourcePath": "views\\45621eb2-1667-4320-bb51-96147001de36.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1023,6 +1039,14 @@
             }
         },
         {
+            "Key": "754694a2-fc90-4ff2-baf8-7343d928c847",
+            "Value": {
+                "id": "38cb92d3-ac2b-415f-b838-9f6227b9765a",
+                "resourcePath": "objects\\oExitBtn\\oExitBtn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "75a83d0e-bfcb-406b-a8b3-6f30b0a528b2",
             "Value": {
                 "id": "181af81e-f840-421e-9905-e5d9717f6781",
@@ -1383,6 +1407,14 @@
             }
         },
         {
+            "Key": "98b8bc5c-695f-452f-be99-92bb6afce68e",
+            "Value": {
+                "id": "bedd241b-c393-44af-9422-a0a37b0910e6",
+                "resourcePath": "objects\\oPlayBtn\\oPlayBtn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "99f4ba3f-81b9-4a2a-9776-7e6431731d30",
             "Value": {
                 "id": "829deba2-e61a-4d3e-a367-36755cfcbebf",
@@ -1636,6 +1668,14 @@
                 "id": "4a2c3f20-309c-4eba-b192-f440b0691b5c",
                 "resourcePath": "tilesets\\tl_sawPath\\tl_sawPath.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "b05cc20b-3e6d-4ed7-92f0-a57831368923",
+            "Value": {
+                "id": "cf017ade-9a05-4680-af84-9f8014ba25ab",
+                "resourcePath": "objects\\oContinueBtn\\oContinueBtn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
