@@ -10,3 +10,5 @@ global.step7 = 0;
 
 global.step8 = 0;
 global.PlayerTrial = 3;
+
+draw_set_colour($FFFFFF & $ffffff);
