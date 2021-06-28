@@ -8,7 +8,9 @@ switch(state){
 		var jump = keyboard_check_pressed(ord("W")) || keyboard_check_pressed(vk_up);
 		if(jump && tile_ver_collision(1)) {
 			vsp = -jump_speed;
-			audio_play_sound(sJump, 0, 0);
+				if(global.audioPlay){
+					audio_play_sound(sJump, 0, 0);
+				}
 			}
 		
 		//gravity

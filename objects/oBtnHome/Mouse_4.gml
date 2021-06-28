@@ -3,6 +3,7 @@ instance_destroy(oPopUpFrame);
 instance_destroy(oMenu);
 instance_destroy(oGamePaused);
 instance_destroy(obj_playerVariable);
+audio_resume_sound(sBG);
 
 show_debug_message("obj_dark destroyed");
 show_debug_message("oPopUpFrame destroyed");

@@ -21,6 +21,8 @@ if(spriteAnimation == 1){
 		animationSpeed = 0;
 	}
 	if(animationSpeed==1){
-		audio_play_sound(sTrampoline, 0, 0);
-	}
+		if(global.audioPlay){
+				audio_play_sound(sTrampoline, 0, 0);
+			}
+		}
 }

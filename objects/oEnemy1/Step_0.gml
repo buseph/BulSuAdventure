@@ -28,14 +28,18 @@ switch(state)
 		if (place_meeting(x,y, obj_player)){
 			
 			if(obj_player.y < y-40){
-				audio_play_sound(sJumpOnEnemy, 0, 0);
+				if(global.audioPlay){
+					audio_play_sound(sJumpOnEnemy, 0, 0);
+				}
 				with(obj_player){
 					sprite_index = sp_jumping;
 					vsp = -jump_speed;
 				}
 				state = st.hurt;
 			}else{
-				audio_play_sound(sPlayerHurt, 0, 0);
+				if(global.audioPlay){
+					audio_play_sound(sPlayerHurt, 0, 0);
+				}
 				with(obj_player){
 					if(image_xscale < 0){
 						kb_x = 1.5;

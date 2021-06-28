@@ -15,10 +15,14 @@ switch(state)
 		if (place_meeting(x,y, obj_playerTutorial03)){
 			
 			if(obj_playerTutorial03.y < y-40){
-				audio_play_sound(sJumpOnEnemy, 0, 0);
+				if(global.audioPlay){
+					audio_play_sound(sJumpOnEnemy, 0, 0);
+				}
 				state = st.hurt;
 			}else{
-				audio_play_sound(sPlayerHurt, 0, 0);
+				if(global.audioPlay){
+					audio_play_sound(sPlayerHurt, 0, 0);
+				}
 				with(obj_playerTutorial03){
 					if(image_xscale < 0){
 						kb_x = 1.5;

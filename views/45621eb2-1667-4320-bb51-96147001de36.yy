@@ -7,7 +7,11 @@
         "2ccf594b-e0bc-4209-9891-6bdae61a6a22",
         "98b8bc5c-695f-452f-be99-92bb6afce68e",
         "b05cc20b-3e6d-4ed7-92f0-a57831368923",
-        "754694a2-fc90-4ff2-baf8-7343d928c847"
+        "754694a2-fc90-4ff2-baf8-7343d928c847",
+        "14412e23-c310-4243-b269-fb04e2218fb3",
+        "143f2b1f-8ce8-4457-a598-c2bd2df73424",
+        "937efd14-7a5c-4f69-8eb8-ab78f8abc726",
+        "0a51c54d-4f6d-4288-a8bc-e1237bcef134"
     ],
     "filterType": "GMObject",
     "folderName": "menu",

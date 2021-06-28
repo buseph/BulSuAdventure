@@ -1,4 +1,4 @@
-if(place_meeting(x,y,obj_player)){
+ if(place_meeting(x,y,obj_player)){
 	sprite_index = sp_Button;
 	with(oBlock16 ){
 		sprite_index = sp_BlockDestroy;		
@@ -14,6 +14,8 @@ if(animationStart = 1){
 		}
 	}
 	if(animation_time == 10){
-		audio_play_sound(sButton, 0, 0);
+		if(global.audioPlay){
+			audio_play_sound(sButton, 0, 0);
+		}
 	}
 }

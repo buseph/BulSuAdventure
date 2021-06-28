@@ -16,6 +16,8 @@ if(animationStart = 1){
 	if(animation_time == 10){
 		global.level += 1;
 		show_debug_message(global.level);
-		audio_play_sound(sButton, 0, 0);
+		if(global.audioPlay){
+			audio_play_sound(sButton, 0, 0);
+		}
 	}
 }

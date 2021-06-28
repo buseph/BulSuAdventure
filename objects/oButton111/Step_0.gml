@@ -16,6 +16,8 @@ if(animationStart = 1){
 		instance_destroy();
 	}
 	if(animation_time == 10){
-		audio_play_sound(sButton, 0, 0);
+		if(global.audioPlay){
+			audio_play_sound(sButton, 0, 0);
+		}
 	}
 }

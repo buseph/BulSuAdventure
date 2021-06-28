@@ -13,7 +13,9 @@ if (collide == 1){
 		instance_destroy();
 	}
 	if(coinEffectAnimation == 10){
-		audio_play_sound(sCoin, 0, 0);
+		if(global.audioPlay){
+			audio_play_sound(sCoin, 0, 0);
+		}
 	}
 }
 
