@@ -4,7 +4,7 @@ BulSU Adventure is an adventure game created in Game Maker Studio 2 by a group o
 
 
 ## Game Screen Shots
-![Menu of the game](https://photos.app.goo.gl/RhoucvWoz9Yc8MiG6)
+![Menu of the game](https://drive.google.com/file/d/1E4H3yE7iYHZDoGMGxZFOFEfAEOdcu21X/view?usp=sharing)
 ![Tutorial of the game](https://photos.app.goo.gl/p7LJUK93oxYFXVhy8)
 ![Level 1](https://photos.app.goo.gl/iNrajwvPzBwppLE76)
 
