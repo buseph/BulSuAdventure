@@ -2,9 +2,14 @@ instance_destroy(obj_dark)
 instance_destroy(oPopUpFrame);
 instance_destroy(oMenu);
 instance_destroy(oGamePaused);
-instance_destroy(oGameOver);
 instance_destroy(obj_playerVariable);
+instance_destroy(oGameOver);
 audio_resume_sound(sBG);
+
+if(file_exists("save.ini")){
+	file_delete("save.ini");
+	show_debug_message("save.ini deleted");
+}
 
 show_debug_message("obj_dark destroyed");
 show_debug_message("oPopUpFrame destroyed");

@@ -1,19 +1,10 @@
 {
-    "id": "3bd301f1-7b8c-4a71-b1d8-d2bd0d63ab3f",
+    "id": "a7293666-8c3f-48ab-8da5-ed891c970b71",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oCoinGui",
+    "name": "oGameOverText",
     "eventList": [
-        {
-            "id": "ff649bbb-7f5b-4998-96c8-35831136259a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3bd301f1-7b8c-4a71-b1d8-d2bd0d63ab3f"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1656aa1e-6378-4731-b252-a4afad63709d",
+    "spriteId": "9d150a3d-0e47-458c-a025-bf406ccd1a1b",
     "visible": true
 }

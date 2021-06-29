@@ -22,6 +22,12 @@ if(keyboard_check_pressed(vk_escape)){
 	}
 }
 
+if(!instance_exists(oGameOver)){
+	instance_create_layer(0, 0, "Instances", oGameOver);
+	show_debug_message("Game Over Created");
+}
+
+
 
 
 

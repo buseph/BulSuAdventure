@@ -1,18 +1,18 @@
 {
-    "id": "3bd301f1-7b8c-4a71-b1d8-d2bd0d63ab3f",
+    "id": "051243e5-aaf4-46c0-8621-705836196acb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oCoinGui",
+    "name": "oPopUpFrame1",
     "eventList": [
         {
-            "id": "ff649bbb-7f5b-4998-96c8-35831136259a",
+            "id": "92e06e42-c792-4832-86a8-5693f24d8d8e",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "3bd301f1-7b8c-4a71-b1d8-d2bd0d63ab3f"
+            "m_owner": "051243e5-aaf4-46c0-8621-705836196acb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "1656aa1e-6378-4731-b252-a4afad63709d",
+    "spriteId": "bde6cb5b-7c1e-4523-baa0-ab52737cf7e5",
     "visible": true
 }

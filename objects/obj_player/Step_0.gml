@@ -59,20 +59,14 @@ switch(state){
 			sprite_index = sp_idle;
 		} 
 		
-		//hurt
-		//var enemy_col = instance_place(x,y, oEnemyParent);
-		//if (enemy_col != noone){
-		//	kb_x = sign(x - enemy_col.x);
-		//	state = st.hurt;
-		//}
-		
 		//died
 		if(global.PlayerTrial != -1){
 			if(global.gameLives<=0 || y > room_height){
 				state = st.dead;
 			}
 		}else{
-			game_end();
+			instance_destroy();
+			global.gameOver = true;
 		}
 		
 		//collision with the box

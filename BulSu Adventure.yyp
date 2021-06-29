@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "051243e5-aaf4-46c0-8621-705836196acb",
+            "Value": {
+                "id": "a1f86f76-54b0-41ed-9cd9-77327fc74738",
+                "resourcePath": "objects\\oPopUpFrame1\\oPopUpFrame1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "05b9e6bd-e687-432e-a16b-b075af1df67f",
             "Value": {
                 "id": "264dabb4-dc44-4740-82fd-0eb259e04cf1",
@@ -172,6 +180,14 @@
                 "id": "069a027d-a80f-4c00-af19-1f2c4474fe98",
                 "resourcePath": "scripts\\msg_dynamic_multi\\msg_dynamic_multi.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "109f1525-9978-4c15-bec3-1bcc571a4c20",
+            "Value": {
+                "id": "310bdbbc-40d9-4e61-85a4-baebb2c5296a",
+                "resourcePath": "objects\\oBtnHome1\\oBtnHome1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -447,6 +463,14 @@
             }
         },
         {
+            "Key": "2a70f449-e9f7-4810-9ec3-06380449aa77",
+            "Value": {
+                "id": "f026e686-6f43-416a-b5bd-dc9e85d5778c",
+                "resourcePath": "views\\2a70f449-e9f7-4810-9ec3-06380449aa77.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2ccf594b-e0bc-4209-9891-6bdae61a6a22",
             "Value": {
                 "id": "749c4473-de82-4af6-bdf2-e27fe98c6df0",
@@ -652,6 +676,14 @@
                 "id": "70a53e14-f4bd-4c34-86bb-8691ba70e7d9",
                 "resourcePath": "sounds\\sJump\\sJump.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3ebd41d0-f6b7-4f80-bf29-081a6ff2b0c3",
+            "Value": {
+                "id": "c78e5a9f-3e82-4c88-9e6f-1c07be4f8d51",
+                "resourcePath": "objects\\obj_dark1\\obj_dark1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1551,6 +1583,14 @@
             }
         },
         {
+            "Key": "9d150a3d-0e47-458c-a025-bf406ccd1a1b",
+            "Value": {
+                "id": "35dee698-4f3e-4477-90f3-ce0f40350d2d",
+                "resourcePath": "sprites\\sp_gameOver\\sp_gameOver.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9d2bf80c-4a6d-472c-bb1d-5315c94c780a",
             "Value": {
                 "id": "92a2bd5c-4369-44f6-8e45-2f04d5b513f1",
@@ -1644,6 +1684,14 @@
                 "id": "825810e6-e434-4f29-87ae-535bfd851828",
                 "resourcePath": "sprites\\sEnemy4_died\\sEnemy4_died.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a7293666-8c3f-48ab-8da5-ed891c970b71",
+            "Value": {
+                "id": "e32c53ad-cb51-4de4-a5b1-55fa6fd14137",
+                "resourcePath": "objects\\oGameOverText\\oGameOverText.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2055,6 +2103,14 @@
             }
         },
         {
+            "Key": "d3684fa8-76e2-451b-a3fc-bd4240011e41",
+            "Value": {
+                "id": "acafb1c3-03de-47b0-98e2-41fb9187e8d9",
+                "resourcePath": "objects\\oGameOver\\oGameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d4c00fb8-9481-4aab-9daf-3d2f104ca8a1",
             "Value": {
                 "id": "bedd679f-1e53-40ec-a4b1-49b98de5eb22",
@@ -2068,6 +2124,14 @@
                 "id": "6d387d9c-3811-4d63-a8d6-5965bb024959",
                 "resourcePath": "sprites\\sp_falling\\sp_falling.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d5fc7690-facf-478e-94e3-5a5b62d02fb7",
+            "Value": {
+                "id": "bf840951-dd1c-4e64-a1e3-68b3c9dc5647",
+                "resourcePath": "views\\d5fc7690-facf-478e-94e3-5a5b62d02fb7.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
