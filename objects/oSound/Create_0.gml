@@ -1,4 +1,7 @@
-global.audioPlay = true;
+global.audioPlay = true
 playOnce = true;
 
-audio_play_sound(sBG, 0, 1);
+if(global.audioPlay){
+	audio_play_sound(sBG, 0, 1);
+	show_debug_message("audio on");
+}

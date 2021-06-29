@@ -6,6 +6,7 @@ if(global.gameOver){
 	instance_create_layer(360, 450, gameOver_layer, oPopUpFrame1);
 	instance_create_layer(360, 450, gameOverBtn_layer, oBtnHome1);
 	instance_destroy(obj_main);
+
 	
 	if(file_exists("save.ini")){
 		file_delete("save.ini");

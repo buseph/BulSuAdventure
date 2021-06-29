@@ -5,7 +5,7 @@
     "name": "oSoundMenu",
     "eventList": [
         {
-            "id": "957783ed-364a-422f-95df-e17a6d0f5755",
+            "id": "59a6f013-0490-445a-a184-c3bd11e9ea1b",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
