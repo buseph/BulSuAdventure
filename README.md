@@ -4,9 +4,9 @@ BulSU Adventure is an adventure game created in Game Maker Studio 2 by a group o
 
 
 ## Game Screen Shots
-![Menu of the game](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure1.png./Images/bulsuAdventure1)
-![Tutorial of the game](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure2.png./Images/bulsuAdventure2)
-![Level 1](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure3.png./Images/bulsuAdventure3)
+![Menu of the game](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure1.png)
+![Tutorial of the game](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure2.png)
+![Level 1](https://github.com/buseph/BulSuAdventure/blob/main/Images/bulsuAdventure3.png)
 ## Credits
  - [Pixel Frog](https://pixelfrog-assets.itch.io/)  - for **Pixel Adventure** and **Pixel Adventure** sprites.
  -  [GrafxKid](https://grafxkid.itch.io/) - for **Seasonal Tilesets** and **Mini FX, Items & UI** sprites.
