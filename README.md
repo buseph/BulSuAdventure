@@ -22,4 +22,5 @@ BulSU Adventure is an adventure game created in Game Maker Studio 2 by a group o
  - Nolasco, Mark Rencie G.
  - Todoc, John Kenneth G.
  - Catarroja, Ellizer B.
- - Mosca, Jomarie Ann C.> Dela Cruz, Mc Wilkins A.
+ - Mosca, Jomarie Ann C.
+ - Dela Cruz, Mc Wilkins A.
