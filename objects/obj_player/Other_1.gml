@@ -22,6 +22,8 @@ if(global.level == 0){
 }else if(global.level == 7){
 	room_goto(room8);
 	global.gameScore = global.tempScore;
+}else if(global.level == 8){
+	room_goto(rmOutro);
 }else{
 	room_restart();
 }

@@ -1,3 +1,7 @@
+if(global.audioPlay){
+	audio_play_sound(sOnGameMenuSelectSound, 1, 0);
+}
+
 instance_destroy(obj_dark)
 instance_destroy(oPopUpFrame);
 instance_destroy(oMenu);
@@ -18,3 +22,4 @@ show_debug_message("oGamePaused destroyed");
 show_debug_message("obj_playerVariable destroyed");
 
 room_goto(rm_menu);
+
