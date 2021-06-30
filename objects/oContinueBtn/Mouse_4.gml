@@ -1,3 +1,6 @@
+if(global.audioPlay){
+	audio_play_sound(sMenuSelect, 1, 0);
+}
 
 ini_open("save.ini");
 

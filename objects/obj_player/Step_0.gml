@@ -65,6 +65,9 @@ switch(state){
 				state = st.dead;
 			}
 		}else{
+			if(global.audioPlay){
+				audio_play_sound(sGameOver, 0, 0);
+			}
 			instance_destroy();
 			global.gameOver = true;
 		}
