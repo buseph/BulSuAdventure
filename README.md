@@ -15,7 +15,7 @@ BulSU Adventure is an adventure game created in Game Maker Studio 2 by a group o
  - [GrafxKid](https://grafxkid.itch.io/) - for **Seasonal Tilesets** and **Mini FX, Items & UI** sprites.
  - [fsy](https://fsy.itch.io/) - for **GUI - Game Buttons fsy002** sprite.
  - [Hiyameshi 8BIT MUSIC](https://www.youtube.com/channel/UCnzKVyhgP_XzXkNIq8zJxtg) - for outro background music.
- - [RocketBank] - for character reference.
+ - RocketBank - for character reference.
  
 ## Group Members
 
