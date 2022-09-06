@@ -1,6 +1,6 @@
 # BulSU Adventure
 
-BulSU Adventure is an adventure game created in Game Maker Studio 2 by a group of Bulacan State University Sarmiento Campus students for their requirements in Game Development subject.
+Simple 8-bit adventure game created in Game Maker Studio 2 by students for their Game Development core curriculum.
 
 
 ## Game Screen Shots
