@@ -1,6 +1,6 @@
 # BulSU Adventure
 
-Simple 8-bit adventure game created in Game Maker Studio 2 by students for their Game Development core curriculum.
+Simple aseprite adventure game created in Game Maker Studio 2 by students for their Game Development core curriculum.
 
 
 ## Game Screen Shots
